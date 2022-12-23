@@ -38,7 +38,7 @@ await new Promise((resolve, reject) => {
 
 let mailData = await {
     from: 'wrightsbot@gmail.com',
-    to: 'jaydencrowther@gmail.com',
+    to: 'dwright8485@hotmail.com',
     subject: `Booking Form For ${firstname} ${lastname}`,
     text: `
     𝗢𝗡𝗟𝗜𝗡𝗘 𝗕𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥𝗠
